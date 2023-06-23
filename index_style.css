@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+* {
+	margin: 50;
+	padding: 50;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 50vh;
+	margin-right: 10vh;
+	background: url('p1.jpg') no-repeat;
+	background-position: center;
+}
